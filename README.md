@@ -1,24 +1,4 @@
-# README
+# Day 9 of 100 Days CSS Challenge
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[Day 9](!https://codepen.io/roydigerhund/pen/MKxgWz)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
